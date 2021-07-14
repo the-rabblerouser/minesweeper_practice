@@ -1,4 +1,4 @@
 # MineSweeper
 
-Create with React & Typescript
+Created with React & Typescript
 
