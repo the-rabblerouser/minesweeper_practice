@@ -25,7 +25,7 @@ const Button = ({ value, state }: ButtonProps) => {
 			style={{
 				width: '2rem',
 				height: '2rem',
-				padding: '1rem',
+				padding: '1.2rem',
 				border: '1px solid grey',
 				display: 'flex',
 				justifyContent: 'center',
