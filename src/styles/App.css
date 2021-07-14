@@ -1,0 +1,11 @@
+.App {
+	background-color: #c2c2c2;
+	padding: 4rem;
+}
+
+.Body {
+	display: grid;
+	grid-template-columns: repeat(9, 1fr);
+	grid-template-rows: repeat(9, 1fr);
+	margin-top: 16px;
+}
