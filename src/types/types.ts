@@ -12,8 +12,8 @@ export enum CellValue {
 }
 
 export enum CellState {
-	visible,
 	open,
+	visible,
 	flagged,
 }
 
